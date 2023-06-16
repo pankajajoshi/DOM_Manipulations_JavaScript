@@ -50,6 +50,7 @@ pastRList.removeChild(chicagoRace);
   newLiItem.textContent = newCity;
 
   pastRList.appendChild(newLiItem);
+  
 
   // Part 7
   // Create a new .blog-postcorresponding to the new city added in Part 6. 
